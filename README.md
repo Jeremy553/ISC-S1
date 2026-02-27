@@ -90,5 +90,5 @@ transferencia de archivos.
 
 4. **Scheduling**: Es el mecanismo que permite a un sistema operativo gestionar el acceso a la CPU y otros recursos, organizando la ejecución de procesos y hilos para optimizar el rendimiento, la equidad y la respuesta del sistema.
 
-5.**Hilos**: Un hilo (o thread en inglés) es la unidad más pequeña de ejecución dentro de un proceso. Un proceso puede contener uno o varios hilos que se ejecutan concurrentemente, compartiendo recursos como memoria y archivos, pero cada hilo tiene su propio contador de programa, pila y registros.
+5. **Hilos**: Un hilo (o thread en inglés) es la unidad más pequeña de ejecución dentro de un proceso. Un proceso puede contener uno o varios hilos que se ejecutan concurrentemente, compartiendo recursos como memoria y archivos, pero cada hilo tiene su propio contador de programa, pila y registros.
 
