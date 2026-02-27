@@ -30,7 +30,7 @@
 
 15. **Ciberseguridad**: Es el contenido de prácticas, tecnologias y procesos diseñados para proteger sistemas informáticos, redes y dispositivos.
 
- # Glosario semana 2
+# Glosario semana 2
 
 1. **CPU**: El CPU o Unidad Central de Procesamiento, es el componente principal
 de un ordenador que ejecuta las instrucciones de los programas informáticos.
